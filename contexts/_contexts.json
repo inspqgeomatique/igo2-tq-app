@@ -3,12 +3,8 @@
     "uri": "default",
     "title": "Default Context"
   },
-{
-    "uri": "qc911",
-    "title": "Qc-911"
-  },  
  {
-    "uri": "/igo2-tq-app-contexte/mtq",
+    "uri": "../../igo2-tq-app-contexte/mtq",
     "title": "Transports"
   },
   {
