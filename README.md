@@ -2,7 +2,7 @@
 
 
 # Français 
-### Voici comment repartir une app IGO2 à partir de ce dépôt github 
+## Comment repartir une app IGO2 à partir de ce dépôt github (si pas de serveur Web disponible)
 
 1. Forker ces deux dépôts dans votre compte Github :
 * https://github.com/kingoli/igo2-tq-app/
@@ -14,7 +14,7 @@
 ---
 
 # English
-## Here is how to start a new IGO2 app from this github repo 
+## Here is how to start a new IGO2 app from this github repo (if no Web Server available)
 
 1. Fork those two repo to your own Github account:
 * https://github.com/kingoli/igo2-tq-app/
