@@ -1,39 +1,7 @@
 [
   {
-    "uri": "default",
-    "title": "Default Context"
-  },
- {
-    "uri": "../../igo2-tq-app-contexte/mtq",
-    "title": "Transports"
-  },
-  {
-    "uri": "../../igo2-tq-app-contexte/matthieu",
-    "title": "Matthieu"
-  },
-  {
-    "uri": "../../igo2-tq-app-contexte/olivier",
-    "title": "Olivier"
-  },
-   {
-    "uri": "../../igo2-tq-app-contexte/pierreetienne",
-    "title": "PierreEtienne"
-},
- {
-    "uri": "../../igo2-tq-app-contexte/stephanie",
-    "title": "Stephanie"
-  },
-  {
-    "uri": "../../igo2-tq-app-contexte/yali",
-    "title": "Yali"
-  },
- {
-    "uri": "../../igo2-tq-app-contexte/marc",
-    "title": "Marc"
-  },
-  {
-    "uri": "embacle",
-    "title": "Embâcle (analyse temporelle)"
+    "uri": "../../igo2-tq-app-contexte/CREBS",
+    "title": "CREBS"
   }
 ]
 
